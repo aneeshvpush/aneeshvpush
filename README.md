@@ -6,7 +6,7 @@
                                       ██║  ██║██║ ╚████║███████╗███████╗███████║██║  ██║
                                       ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
-<h2 align="center">Hey there 👋 I'm Aneesh</h2>
+<h2 align="center">Hey 👋 I'm Aneesh</h2>
 
 <p align="center">Aerospace Engineer, Computer Scientist, Outreach Coordinator</p>
 
