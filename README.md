@@ -16,4 +16,5 @@
 
 - 2nd Year Aerospace Engineering Student at UIUC with a minor in Computer Science
 - Interested in space, structures, and space systems
+- Involved in many student outreach committees
 - Enjoying life
