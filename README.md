@@ -11,3 +11,9 @@
 <p align="center">Aerospace Engineer, Computer Scientist, Outreach Coordinator</p>
 
 📩 **Reach me at**: [Aneesh's LinkedIn](https://www.linkedin.com/in/aneesh-pushparaj/)
+
+### 🧑‍💻 About Me
+
+- 2nd Year Aerospace Engineering Student at UIUC with a minor in Computer Science
+- Interested in space, structures, and space systems
+- Enjoying life
