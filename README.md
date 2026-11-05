@@ -17,4 +17,6 @@
 - Involved in many student outreach committees
 
 
-📩 **Reach me at**: [Aneesh's LinkedIn](https://www.linkedin.com/in/aneesh-pushparaj/)
+📩 **Reach me at**: 
+- [Aneesh's LinkedIn](https://www.linkedin.com/in/aneesh-pushparaj/)
+- [aneeshpush.com](https://aneeshpush.com/)
